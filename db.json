@@ -1,17 +1,5 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "surveys": [
+[
+
     {"id": 1, "title": "Survey 1", "info": "Info 1"},
     {"id": 2, "title": "Survey 2", "info": "Info 2"},
     {"id": 3, "title": "Survey 3", "info": "Info 3"},
@@ -19,5 +7,5 @@
     {"id": 5, "title": "Survey 5", "info": "Info 5"},
     {"id": 6, "title": "Survey 6", "info": "Info 6"},
     {"id": 7, "title": "Survey 7", "info": "Info 7"}
-  ]
-}
+  
+]
